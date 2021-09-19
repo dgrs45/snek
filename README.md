@@ -1,3 +1,3 @@
 # snek
-Snake Game in python. Nice
-Used turtle 
+Implemented the snake game in python with the turtle library.
+
